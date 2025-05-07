@@ -19,7 +19,7 @@ This paper provides an in-depth survey of **Graph Foundation Models (GFMs)**—l
 |----------------------------|---------------------------|
 | Medium.com Article          | [Read Article](https://medium.com/@rushabh22runwal/a-deep-dive-into-graph-foundation-models-architectures-benchmarks-and-future-directions-49e618a9fad0) |
 | Presentation Slides (PDF)   | [`slides.pdf`](slides.pdf) |
-| Video Explanation (Youtube)     | [`video.mp4`](video.mp4)   |
+| Video Explanation (Youtube)     | [`youtube linke`](Youtube)   |
 
 👉 All figures used are cited from the original paper or created by me.
 
