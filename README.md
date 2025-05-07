@@ -1,0 +1,1 @@
+# Short-story-on-Graph-Foundation-Models-for-Recommendation-A-Comprehensive-Survey
